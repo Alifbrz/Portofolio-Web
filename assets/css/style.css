@@ -163,6 +163,9 @@ h6 {
   #header.header-top h1 {
     font-size: 26px;
   }
+  .container h2 {
+    background-color: rgb(56, 56, 56);
+  }
 }
 
 /*--------------------------------------------------------------
